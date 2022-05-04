@@ -41,17 +41,17 @@
 
 
 // Latihan soal
-// function satu() {
-//   var nama = 'Erfan';
-//   console.log(nama);
-// }
+function satu() {
+  var nama = 'Erfan';
+  console.log(nama);
+}
 
-// function dua() {
-//   console.log(nama);
-// }
+function dua() {
+  console.log(nama);
+}
 
-// console.log(nama);
-// var nama = 'Riani';
-// satu();
-// dua('Arshaka');
-// console.log(nama);
+console.log(nama);
+var nama = 'Riani';
+satu();
+dua('Arshaka');
+console.log(nama);
